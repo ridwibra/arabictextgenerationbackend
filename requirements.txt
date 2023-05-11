@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+keras
+tensorflow
+numpy
